@@ -1,0 +1,16 @@
+{
+  "name": "~TODO~",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@prismicio/client": "^5.1.0",
+    "@sveltejs/kit": "next",
+    "prismic-dom": "^2.2.6",
+    "svelte": "^3.34.0"
+  },
+  "type": "module"
+}
